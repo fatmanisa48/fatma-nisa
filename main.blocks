@@ -1,0 +1,91 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_forever" id="dj,,l1nD^(kF#aSBe6(h" x="220" y="-30"><statement name="HANDLER"><block type="playMelody" id="L%Y}bU#{|_97P3pRKm(*"><value name="melody"><shadow type="melody_editor" id="QicoSYl~!hFuA#.+D82E"><field name="melody">"F F F G G G A A "</field></shadow></value><value name="tempo"><shadow type="math_number_minmax" id="D?CBq/p.Y`fR|%tEi7m7"><mutation min="40" max="500" label="Tempo" precision="0"></mutation><field name="SLIDER">500</field></shadow></value></block></statement></block><block type="device_forever" id="m{lZ`=Q}Sh!5*;TBuyT(" x="0" y="0"><statement name="HANDLER"><block type="device_show_leds" id="/`DGUlYP49l23mbokeTg"><field name="LEDS">`
+        . # # # . 
+        . # . . . 
+        . # # # . 
+        . # . . . 
+        . # . . .
+        `</field><next><block type="device_show_leds" id="[08,VXBCOYXupR!8%ugV"><field name="LEDS">`
+        . # # # . 
+        . # . # . 
+        . # # # . 
+        . # . # . 
+        . # . # .
+        `</field><next><block type="device_show_leds" id="P0ajR13YRge:4@gxce|D"><field name="LEDS">`
+        . # # # . 
+        . . # . . 
+        . . # . . 
+        . . # . . 
+        . . # . .
+        `</field><next><block type="device_show_leds" id="dcpjS1q5P|R}LKkTwY(,"><field name="LEDS">`
+        # # . # # 
+        # . # . # 
+        # . # . # 
+        # . . . # 
+        # . . . #
+        `</field><next><block type="device_show_leds" id="[(yJX/v9!U4c0LEAk`;x"><field name="LEDS">`
+        . # # # . 
+        . # . # . 
+        . # # # . 
+        . # . # . 
+        . # . # .
+        `</field><next><block type="device_show_leds" id="s$=T0D6Q-H.Ux@N5q`%?"><field name="LEDS">`
+        # . . . # 
+        # # . . # 
+        # . # . # 
+        # . . # # 
+        # . . . #
+        `</field><next><block type="device_show_leds" id="WKiD(vGDMuxUv}Wu}Ibv"><field name="LEDS">`
+        . . # . . 
+        . . . . . 
+        . . # . . 
+        . . # . . 
+        . . # . .
+        `</field><next><block type="device_show_leds" id="L@@#ZA3!-ks`jzOM)7*:"><field name="LEDS">`
+        . # # # . 
+        . # . . . 
+        . # # # . 
+        . . . # . 
+        . # # # .
+        `</field><next><block type="device_show_leds" id="*F`s8Xi2|Y}unMd@`D=2"><field name="LEDS">`
+        . # # # . 
+        . # . # . 
+        . # # # . 
+        . # . # . 
+        . # . # .
+        `</field><next><block type="device_show_leds" id="rgcCd(ZP9C8gKVa[00^["><field name="LEDS">`
+        # . . . # 
+        . # . # . 
+        . . # . . 
+        . . # . . 
+        . . # . .
+        `</field><next><block type="device_show_leds" id="b*_[Wr)T|`[Ek($PB=|n"><field name="LEDS">`
+        . # . # . 
+        . . . . . 
+        . # # # . 
+        . # . # . 
+        . # # # .
+        `</field><next><block type="device_show_leds" id="ky78zAHypIm),ASZVyU;"><field name="LEDS">`
+        # . . . # 
+        # # . . # 
+        # . # . # 
+        # . . # # 
+        # . . . #
+        `</field><next><block type="device_show_leds" id="nkMOO%sn_Q$(;1Pq+SMD"><field name="LEDS">`
+        . # # # . 
+        . . # . . 
+        . . # . . 
+        . . # . . 
+        . . # . .
+        `</field><next><block type="device_show_leds" id="-UCduDlfIZbkL~9DHb_t"><field name="LEDS">`
+        . # # # . 
+        . # . . . 
+        . # # # . 
+        . # . . . 
+        . # # # .
+        `</field><next><block type="device_show_leds" id="x2hOnw=y}hpt!R0D[/xj"><field name="LEDS">`
+        . # # # . 
+        . # . # . 
+        . # # . . 
+        . # . # . 
+        . # . # .
+        `</field><next><block type="basic_show_icon" id="P3C!C;o~e:Ad}.W1f,N@"><field name="i">IconNames.Heart</field><next><block type="device_led_toggle" id="icK#ND2P2WQh4*YvaXpr"><value name="x"><shadow type="math_number_minmax" id="zh`HmM]k9y,z!bK/B?/u"><mutation min="0" max="4" label="X" precision="1"></mutation><field name="SLIDER">1</field></shadow></value><value name="y"><shadow type="math_number_minmax" id="D7v{4.#RTLBGK~$9pA1T"><mutation min="0" max="4" label="Y" precision="1"></mutation><field name="SLIDER">2</field></shadow></value></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></statement></block></xml>
